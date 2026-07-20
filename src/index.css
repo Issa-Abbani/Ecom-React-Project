@@ -1,16 +1,16 @@
 :root{
-  --main-color: blue;
+  --main-color: rgb(0, 102, 5);
   --text-color:  rgb(33, 33, 33);
   --secondary-text-color: rgb(120, 120, 120);
   
   --primary-bg-btn: white;
   --primary-bg-btn-border: rgb(200, 200, 200);
-  --primary-bg: blue;
+  --primary-bg: rgb(0, 102, 5);
   --primary-shadow: rgba(220, 220, 220, 0.5);
 
-  --header-bg: rgb(37, 37, 221);
+  --header-bg: rgb(0, 102, 5);
   --header-color: rgb(228, 228, 228);
-  --search-btn-color: rgb(0, 162, 255);
+  --search-btn-color: rgb(29, 175, 37);
   --header-link-color: white;
 }
 
